@@ -105,3 +105,11 @@ button:hover {
   word-wrap: break-word;
   text-align: left;
 }
+.footer{
+  bottom: 0%;
+  margin:auto;
+  color:white;
+  background-color: black;
+ margin-top: 20px;
+  height: 3vh;
+}

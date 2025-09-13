@@ -121,6 +121,7 @@ const App = () => {
         <h2>Decrypted Text:</h2>
         <p className="decrypted-text">{decryptedText || "..."}</p>
       </div>
+      <p className='footer'>Made with ❤️ by Mohak Jaiswal</p>
     </div>
   );
 };
